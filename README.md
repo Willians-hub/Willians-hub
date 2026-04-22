@@ -1,16 +1,50 @@
 # 👨🏻‍💻 Willians Rocha
 
-**`Data Scientist | Machine Learning | Python & Statistics`**
+## Data Analyst | Python • SQL • Machine Learning
 
-My name is **Willians Rocha**, I am 42 years old and originally from **Rio Grande do Sul, Brazil**. I am a **Data Science student** focused on building **predictive models, extracting insights from complex datasets, and solving business problems through data**.
+Data professional transitioning into analytics with a strong background in operations, leadership, and business performance. Focused on turning data into actionable insights that support decision-making and improve operational efficiency.
 
-I have a strong academic and professional background that combines **business, operations, and analytics**. I hold a **Postgraduate Degree in Logistics**, a **Bachelor’s Degree in Foreign Trade**, and formal education in **Accounting and Finance**. I have been living in **Ireland for the past six years**, working and studying in multicultural environments.
+Over 6 years of experience living and working in Ireland in multicultural environments, combined with extensive experience in operations and team management.
 
-I am fluent in **Portuguese, English, and Spanish**, and have **basic knowledge of French**.
+I am currently completing a Data Science Bootcamp at TripleTen, where I am developing practical skills in Python, SQL, statistics, data analysis, and machine learning, applied to real-world business problems.
 
-Previously, I served for **7 years as a Corporal in the Brazilian Army**, where I developed strong skills in **discipline, leadership, decision-making under pressure, and teamwork**. After my military career, I worked for **7 years as a Department Manager**, leading teams of approximately **150 employees**, managing **KPIs, performance targets, and operational efficiency** in high-pressure environments.
+### Professional Experience
 
-Currently, I am transitioning my career to **Data Science**, applying **statistical analysis, machine learning, and programming** to real-world problems, especially in **operations, logistics, and business analytics**.
+**Department Manager**  
+Led operations and managed a team of 150+ employees in a high-volume environment.  
+- Monitored KPIs and performance metrics to ensure business targets were achieved  
+- Improved operational efficiency and team productivity  
+- Supported decision-making through reporting and performance analysis  
+
+**Brazilian Army – Corporal (7 years)**  
+Developed strong leadership, discipline, and decision-making skills in high-pressure environments.  
+- Led teams and coordinated operational activities  
+- Strengthened problem-solving, discipline, and teamwork under pressure  
+
+### Education
+
+- Postgraduate Degree in Logistics  
+- Bachelor’s Degree in Foreign Trade  
+- Education in Accounting and Finance  
+- Data Science Bootcamp – TripleTen (Python, SQL, Data Analysis, Machine Learning)
+
+### Technical Skills
+
+- Python (Pandas, NumPy, data analysis)  
+- SQL (queries, joins, aggregations)  
+- Data Visualization (Matplotlib, Power BI)  
+- Machine Learning fundamentals (regression, classification)
+
+### Focus Areas
+
+Applying data-driven approaches to solve real-world business problems, especially in:
+- Operations  
+- Logistics  
+- Business performance optimization  
+
+Languages: Portuguese (native), English (fluent), Spanish (fluent), French (basic)
+
+Open to Data Analyst / Junior Data roles in Ireland 🇮🇪 and international opportunities (EU & remote) 🌍
 
 ---
 
